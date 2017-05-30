@@ -1,6 +1,6 @@
 # Proxy2
 package testforjava;
-
+<code>
 import java.io.*;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
@@ -79,3 +79,4 @@ class CustomInvocationHandler implements InvocationHandler{
 	}
 	
 }
+</code>
