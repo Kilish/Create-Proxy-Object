@@ -1,6 +1,6 @@
 # Proxy2
 package testforjava;
-<code>
+<coded>
 import java.io.*;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
